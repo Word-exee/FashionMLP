@@ -25,5 +25,5 @@ FashionMLP is an in-depth exploration of Multi-Layer Perceptron (MLP) neural net
    - Extract meaningful feature vectors from the trained regressors.
    - Train smaller MLP classifiers on these feature vectors to evaluate whether reduced-dimensional representations can maintain or improve classification performance.
 
-
+Dataset Link:https://drive.google.com/drive/folders/1bfxZ3Up1hAjBkbuPmp8A5Y0e0vV9HGKm?usp=sharing
 
